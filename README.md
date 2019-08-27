@@ -1,2 +1,2 @@
-# bootcamp-gostack-nodejs-ambiente-conceitos
+# bootcamp-gostack-modulo01
 Dominando Node.js! - Ambiente e conceitos
